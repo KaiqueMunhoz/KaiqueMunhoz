@@ -1,10 +1,5 @@
 ### Kaique Munhoz 👋
 
-<!--
-**KaiqueMunhoz/KaiqueMunhoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on ...
 Accenture
 - 🌱 I’m currently learning ...
@@ -17,4 +12,4 @@ Flutter | React-Native
 Linkedin: https://www.linkedin.com/in/kaique-munhoz-developer/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
