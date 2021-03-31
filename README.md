@@ -4,27 +4,25 @@
 [![Flutter Badge](https://img.shields.io/badge/Flutter-yellow)](https://flutter.dev/)
 [![React-Native Badge](https://img.shields.io/badge/ReactNative-blueviolet)](https://reactnative.dev/)
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-gren)](https://kotlinlang.org/)
-[![Swift Badge](https://img.shields.io/badge/Swift-orange)](https://swift.org/)
 
 
 
 ---
 Tenho muito gosto em estar em ambientes que me façam aprender, a estar em constante crescimento.
 
-### Experiências
+### Experiences
 
- - Flutter developer
- - React-Native | React developer
- - Appium/Selenium automated tests
- - Android(Kotlin) MVVM developer
- - Android(Kotlin)
- - GRP Sonner
- - IOS(Swift) developer
- - Android(Java) developer
- - MEAN Stack
+2020/2021 - Flutter developer
+2019 - React-Native | React developer
+2019 - Appium/Selenium automated tests
+2019 - Android(Kotlin) MVVM developer
+2018 - Android(Kotlin)
+2018 - GRP Sonner
+2017 - IOS(Swift) developer
+2016 - Android(Java) developer
+2016 - MEAN Stack
 
-### Formações
-
- - Bootcamp Node, React, React-Native (RocketSeat)
- - Nanodegree React (Udacity)
- - Computer Science (UNIFEG) 
+### Academic degree
+2019 - Bootcamp Node, React, React-Native (RocketSeat)
+2019 - Nanodegree React (Udacity)
+2016 - Computer Science (UNIFEG) 
